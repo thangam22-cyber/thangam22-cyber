@@ -448,9 +448,14 @@ Cybersecurity Internships · AI Security Research · CTF Collaboration · Tool B
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=800&lines=Keep+Building.;Keep+Breaking.;Keep+Defending.;The+threat+landscape+never+sleeps+—+neither+do+I." alt="Closing typing" />
+<br>
 
-<br><br>
+```
+  Keep Building.  Keep Breaking.  Keep Defending.
+  The threat landscape never sleeps — neither do I.
+```
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4FC3F7,40:0D2137,70:0A1628,100:020617&section=footer&animation=twinkling" width="100%" />
 
