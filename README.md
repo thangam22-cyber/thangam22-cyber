@@ -121,7 +121,7 @@ I'm specializing in <b>AI-powered security, threat intelligence, and ethical hac
 
 <div align="center">
 
-### 🎭 AEGISYN — Real-Time Deepfake Detection System
+### 🎭 VERIQLENS — Real-Time Deepfake Detection System
 <table width="100%">
 <tr>
 <td align="left" valign="top">
